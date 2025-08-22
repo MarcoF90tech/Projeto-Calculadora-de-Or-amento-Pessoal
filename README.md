@@ -10,7 +10,7 @@ JavaScript (ES6+);
 HTML5;
 CSS3.
 
-# Oque aprendi:
+# O que aprendi:
 
 Gerenciamento de Estado: utilização do hook "useState" para controlar os dados da aplicação de forma reativa;
 
